@@ -11,7 +11,7 @@ I build scalable web apps and solve problems using **Java, JavaScript, React, No
 
 - 🌱 Currently working on **MERN stack projects**  
 - 💻 Practicing **DSA in Java**  
-- 🎯 Learning **System Design** & **DevOps basics**  
+- 🎯 Learning **NEXT JS** 
 - 🎨 Designing sometimes with **Canva**  
 - 🛠 API testing & debugging with **Postman**
 
