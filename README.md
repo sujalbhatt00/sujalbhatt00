@@ -55,7 +55,7 @@ A real-time currency conversion tool built using JavaScript and external APIs.
 
 ![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalbhatt00&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujalbhatt00&theme=tokyonight&count_private=true)
+
 
 ---
 
