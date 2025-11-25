@@ -26,13 +26,13 @@ I build scalable web apps and solve problems using **Java, JavaScript, React, No
 ## 👇 Current Projects
 
 ### 🔹 [Matestay](https://github.com/sujalbhatt00/matestay)
-A roommate and property-finding web app built using the MERN stack — focusing on user authentication, posting rooms, contact details, and exploring roommate matches.
+A roommate and property-finding platform built using the MERN stack with user authentication, room posting, and roommate matching.
 
 ### 🔹 [Roamly](https://github.com/sujalbhatt00/Roamly)
-A travel planning app built to help users explore destinations and plan trips seamlessly.
+A travel planning app built to help users explore destinations and plan trips.
 
 ### 🔹 [Currency Converter](https://github.com/sujalbhatt00/Currency-Converter)
-A simple real-time currency conversion tool using JavaScript and an external API.
+A real-time currency conversion tool using JavaScript and a live exchange-rate API.
 
 ---
 
@@ -57,17 +57,17 @@ A simple real-time currency conversion tool using JavaScript and an external API
 
 ## 🖥 Featured Projects
 
-[![Matestay](https://github-readme-stats.vercel.app/api/pin/?username=sujalbhatt00&repo=matestay&theme=tokyonight)](https://github.com/sujalbhatt00/matestay)
+[![Matestay](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujalbhatt00&repo=matestay&theme=tokyonight)](https://github.com/sujalbhatt00/matestay)
 &nbsp;
-[![Roamly](https://github-readme-stats.vercel.app/api/pin/?username=sujalbhatt00&repo=Roamly&theme=tokyonight)](https://github.com/sujalbhatt00/Roamly)
+[![Roamly](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujalbhatt00&repo=Roamly&theme=tokyonight)](https://github.com/sujalbhatt00/Roamly)
 &nbsp;
-[![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=sujalbhatt00&repo=Currency-Converter&theme=tokyonight)](https://github.com/sujalbhatt00/Currency-Converter)
+[![Currency Converter](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujalbhatt00&repo=Currency-Converter&theme=tokyonight)](https://github.com/sujalbhatt00/Currency-Converter)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalbhatt00&show_icons=true&theme=tokyonight)
+![Sujal's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sujalbhatt00&show_icons=true&theme=tokyonight)
 
 ---
 
