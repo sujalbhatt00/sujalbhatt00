@@ -12,12 +12,11 @@
 
 # 👋 Hi, I'm Sujal Bhatt
 
-I'm a passionate **Full Stack Web Developer** and **DSA learner** from India.  
-I build scalable web apps and solve problems using **Java, JavaScript, React, NodeJS, Express, MongoDB, SQL**, and more.
+I'm a passionate **Full Stack Web Developer** from India.  
+I build scalable web apps and solve problems using **JavaScript, React, NodeJS, Express, MongoDB, SQL**, and more.
 
 - 🌱 Currently working on **MERN stack projects**  
-- 💻 Practicing **DSA in Java**  
-- 🎯 Learning **Next.js**  
+- 💻 Practicing **DSA in Java**    
 - 🎨 Designing with **Canva**  
 - 🛠 API testing & debugging using **Postman**
 
